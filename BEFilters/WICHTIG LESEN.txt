@@ -1,0 +1,15 @@
+Da ich generell nicht viel von BE halte benutze ich die Filter so gut wie kaum.
+
+Wichtig:
+
+Diese paar Zeilen Code müssen in die BEServer.cfg
+
+
+MaxCreateVehiclePerInterval 72 1
+MaxSetPosPerInterval 10 1
+MaxSetDamagePerInterval 25 1
+MaxAddBackpackCargoPerInterval 15 1
+MaxAddMagazineCargoPerInterval 96 1
+MaxAddWeaponCargoPerInterval 24 1
+MaxDeleteVehiclePerInterval 48 1
+MaxAttachToPerInterval 10 1
