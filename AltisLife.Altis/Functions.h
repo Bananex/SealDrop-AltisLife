@@ -360,7 +360,6 @@ class Life_Client_Core
 		class fedCamDisplay {};
 		class copLoadout {};
 		class breathalyzer {};
-		class saveGear {};
 		class copSiren2 {};
 		class ticketPaid {};
 		class copEnter {};

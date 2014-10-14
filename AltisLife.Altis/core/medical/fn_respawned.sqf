@@ -31,7 +31,7 @@ _unit enableFatigue false;
 switch(playerSide) do
 {
 	case west: {
-		_handle = [] spawn life_fnc_loadGear;
+		_handle = [] spawn life_fnc_copLoadout;
 	};
 	case civilian: {
 		_handle = [] spawn life_fnc_civLoadout;

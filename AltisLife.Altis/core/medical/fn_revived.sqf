@@ -31,7 +31,6 @@ if(playerSide == civilian) then {
 
 //Cop Load Gear
 if(playerSide == west) then {
-	[] spawn life_fnc_loadGear;
 	[] spawn life_fnc_setupActions;
 };
 

@@ -24,7 +24,6 @@ _unit setVariable["hasOrgan",FALSE,TRUE];
 
 //Load CopGear
 if(playerSide == west) then {
-	[] spawn life_fnc_loadGear;
 	[] spawn life_fnc_setupActions;
 };
 
