@@ -45,3 +45,6 @@ Donator Ränge:
 2 = Donator 2
 
 3 = Donator 3 (Söldner)
+
+
+Entwickler von AltisLife: https://github.com/TAWTonic/Altis-Life
